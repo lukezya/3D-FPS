@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D FPS.Plugins", "3D FPS.Plugins.csproj", "{5842D89C-5B7D-2011-32E0-B84C82E8558E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D FPS", "3D FPS.csproj", "{040ACB9C-2219-6951-ACED-712D54177E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D FPS.Editor.Plugins", "3D FPS.Editor.Plugins.csproj", "{EB36BF29-FA89-E807-83B5-5506374320DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5842D89C-5B7D-2011-32E0-B84C82E8558E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5842D89C-5B7D-2011-32E0-B84C82E8558E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5842D89C-5B7D-2011-32E0-B84C82E8558E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5842D89C-5B7D-2011-32E0-B84C82E8558E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040ACB9C-2219-6951-ACED-712D54177E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040ACB9C-2219-6951-ACED-712D54177E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040ACB9C-2219-6951-ACED-712D54177E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040ACB9C-2219-6951-ACED-712D54177E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB36BF29-FA89-E807-83B5-5506374320DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB36BF29-FA89-E807-83B5-5506374320DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB36BF29-FA89-E807-83B5-5506374320DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB36BF29-FA89-E807-83B5-5506374320DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
